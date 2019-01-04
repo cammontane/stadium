@@ -1,0 +1,157 @@
+{
+    "teams":[
+        {
+            "name": "TSG 1899 Hoffenheim",
+            "category" : "Allemagne",
+            "id": 2,
+            "stadium" : "Wirsol Rhein-Neckar-Arena",
+            "latitudeStadium" : 49.237944,
+            "longitudeStadium" : 8.887861    
+        },
+        {
+            "name": "Bayer 04 Leverkusen",
+            "category" : "Allemagne",
+            "id": 3,
+            "stadium" : "BayArena",
+            "latitudeStadium" : 51.038104,
+            "longitudeStadium" : 7.002348
+        },
+        {
+            "name": "BV Borussia 09 Dortmund",
+            "category" : "Allemagne",
+            "id": 4,
+            "stadium" : "Signal Iduna Park",
+            "latitudeStadium" : 51.492489,
+            "longitudeStadium" : 7.451879
+        },
+        {
+            "name": "FC Bayern München",
+            "category" : "Allemagne",
+            "id": 5,
+            "stadium" : "Allianz Arena",
+            "latitudeStadium" : 48.218678,
+            "longitudeStadium" : 11.624782
+        },
+        {
+            "name": "FC Schalke 04",
+            "category" : "Allemagne",
+            "id": 6,
+            "stadium" : "Veltins-Arena",
+            "latitudeStadium" : 51.554511,
+            "longitudeStadium" : 7.067612
+        },
+        {
+            "name": "Hannover 96",
+            "category" : "Allemagne",
+            "id": 8,
+            "stadium" : "HDI-Arena",
+            "latitudeStadium" : 52.359945,
+            "longitudeStadium" : 9.731118
+        },
+        {
+            "name": "Hertha BSC",
+            "category" : "Allemagne",
+            "id": 9,
+            "stadium" : "Olympiastadion Berlin",
+            "latitudeStadium" : 52.514575,
+            "longitudeStadium" : 13.239496
+        },
+        {
+            "name": "VfB Stuttgart",
+            "category" : "Allemagne",
+            "id": 10,
+            "stadium" : "Mercedes-Benz Arena",
+            "latitudeStadium" : 48.792194,
+            "longitudeStadium" : 9.232134
+        },
+        {
+            "name": "VfL Wolfsburg",
+            "category" : "Allemagne",
+            "id": 11,
+            "stadium" : "Volkswagen Arena",
+            "latitudeStadium" : 52.432434,
+            "longitudeStadium" : 10.803945
+        },
+        {
+            "name": "SV Werder Bremen",
+            "category" : "Allemagne",
+            "id": 12,
+            "stadium" : "Weserstadion",
+            "latitudeStadium" : 53.066388,
+            "longitudeStadium" : 8.837648
+        },
+        {
+            "name": "1. FC Nürnberg",
+            "category" : "Allemagne",
+            "id": 14,
+            "stadium" : "Max-Morlock-Stadion",
+            "latitudeStadium" : 49.426028,
+            "longitudeStadium" : 11.125698
+        },
+        {
+            "name": "1. FSV Mainz 05",
+            "category" : "Allemagne",
+            "id": 15,
+            "stadium" : "Opel Arena",
+            "latitudeStadium" : 49.983889,
+            "longitudeStadium" : 8.224221
+        },
+        {
+            "name": "FC Augsburg",
+            "category" : "Allemagne",
+            "id": 16,
+            "stadium" : "WWK Arena",
+            "latitudeStadium" : 48.323097,
+            "longitudeStadium" : 10.885923
+        },
+        {
+            "name": "SC Freiburg",
+            "category" : "Allemagne",
+            "id": 17,
+            "stadium" : "Schwarzwald-Stadion",
+            "latitudeStadium" : 47.988824,
+            "longitudeStadium" : 7.892845
+        },
+        {
+            "name": "Borussia Mönchengladbach",
+            "category" : "Allemagne",
+            "id": 18,
+            "stadium" : "Stadion im Borussia-Park",
+            "latitudeStadium" : 51.174502,
+            "longitudeStadium" : 6.385312
+        },
+        {
+            "name": "Eintracht Frankfurt",
+            "category" : "Allemagne",
+            "id": 19,
+            "stadium" : "Commerzbank-Arena",
+            "latitudeStadium" : 50.068519,
+            "longitudeStadium" : 8.645472
+        },
+        {
+            "name": "TSV Fortuna 95 Düsseldorf",
+            "category" : "Allemagne",
+            "id": 24,
+            "stadium" : "Merkur Spielarena",
+            "latitudeStadium" : 51.261502,
+            "longitudeStadium" : 6.732943
+        },
+        {
+            "name": "RB Leipzig",
+            "category" : "Allemagne",
+            "id": 721,
+            "stadium" : "Red Bull Arena",
+            "latitudeStadium" : 51.345865,
+            "longitudeStadium" : 12.348149
+        },
+        {
+            "name": "",
+            "id": 0,
+            "stadium" : "",
+            "latitudeStadium" : 0,
+            "longitudeStadium" : 0
+        }
+       
+        
+    ]
+}

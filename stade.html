@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <title>Stade</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="bootstrap.css">
+  <link rel="stylesheet" href="stade.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <br>
+
+    <div class="form-group">
+      <br> <br>
+      <label for="search">Choisissez une équipe : </label>
+      <input id="search">
+    </div>
+
+    <div class="m-auto">
+      <label for="from">Du</label>
+      <p><input type="text" id="from" name="from" class="form-control  m-auto">
+      <p><input type="text" id="alternateFrom" size="30" hidden></p>
+
+    </div>
+    <div class="m-auto">
+      <label for="to">Au</label>
+      <input type="text" id="to" name="to" class="form-control m-auto">
+      <p><input type="text" id="alternateTo" size="30" hidden></p>
+    </div><br>
+    
+    <button type="submit" onclick="recherche()">Recherche</button>
+  </div>
+  <div id="output"></div>
+  </div>
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="stade.js"></script>
+
+</body>
+
+</html>
